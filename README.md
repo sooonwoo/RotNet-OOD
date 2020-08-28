@@ -1,6 +1,6 @@
-# Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty
+# Self-Supervised Learning for OOD Detection
 
-Simplified implementation of Self-Supervised Learning for OOD Detection(NeurIPS 2019)
+Simplified implementation of Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty(NeurIPS 2019)
 
 **The code supports only Multi-class OOD Detection experiment(in-dist: CIFAR-10, Out-of-dist: CIFAR-100/SVHN)** 
 
