@@ -1,6 +1,6 @@
 # Self-Supervised Learning for OOD Detection
 
-A Simplified Pytorch implementation of Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty(NeurIPS 2019)
+A Simplified Pytorch implementation of *Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty(NeurIPS 2019)*
 
 **The code supports only Multi-class OOD Detection experiment(in-dist: CIFAR-10, Out-of-dist: CIFAR-100/SVHN)** 
 
